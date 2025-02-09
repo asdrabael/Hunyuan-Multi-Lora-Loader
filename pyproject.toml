@@ -1,0 +1,10 @@
+[project]
+name = "HunyuanMultiLoraLoader"
+description = "A custom LoRA-loading node designed to prevent issues such as blurriness and other artifacts when loading multiple LoRAs in HunYuan Video. Usage Tips: The only difference is the additional blocks_type option. Please select double_blocks."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/asdrabael/ComfyUI-HunyuanVideoMultiLora"
+#  Used by Comfy Registry https://comfyregistry.org
+
