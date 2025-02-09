@@ -5,6 +5,6 @@ version = "1.0.0"
 license = {file = "LICENSE"}
 
 [project.urls]
-Repository = "https://github.com/asdrabael/ComfyUI-HunyuanVideoMultiLora"
+Repository = "https://github.com/asdrabael/Hunyuan-Multi-Lora-Loader"
 #  Used by Comfy Registry https://comfyregistry.org
 
